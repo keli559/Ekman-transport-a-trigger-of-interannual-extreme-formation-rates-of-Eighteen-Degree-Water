@@ -1,0 +1,31 @@
+\begin{table}
+\caption{List of the datasets employed in the analysis.} 
+
+|Dataset | Temporal Coverage | Resolutions & Reference |
+  \hline
+  \multicolumn{4}{c}{Ocean Datasets: Temperature and Salinity} \\
+  \hline
+  EN4 &  January 1950-March 2020 & $1.0^{\circ}$,
+  monthly & \citeA{good2013}\\
+ISAS &  January 2002-April 2020 & $0.5^{\circ}$, monthly & \citeA{kol2017}\\
+Scripps & January 2004-January 2020 & $1^{\circ}$, monthly
+& \citeA{roemmich2009}\\
+IPRC & January 2005-December 2019 & $1^{\circ}$, monthly
+& \citeA{iprc2009}\\
+\hline
+\multicolumn{4}{c}{Altimetry Datasets: SSH}\\
+  \hline
+  SSH anomaly & January 1993-May 2019 & $0.25^{\circ}$, monthly & \citeA{copernicus2020}\\
+MDT & 1993-2012 mean & $0.25^{\circ}$, climatology & \citeA{rio2009}\\
+    \hline
+    \multicolumn{4}{c}{Atmosphere Datasets} \\
+\multicolumn{4}{c}{Sea level pressure, Air-sea heat fluxes, Surface wind speed,
+  Surface wind stress momentum flux} \\
+      \hline
+NCEP &  January 1948-Febuary 2020 & $2.5^{\circ}$, 6hr & \citeA{kalnay1996}\\
+ERA &   January 1979-January 2020 & $0.75^{\circ}$, daily & \citeA{dee2011}\\
+  \hline
+\hline
+\label{table:datasets}
+\end{tabular}
+\end{table}
