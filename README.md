@@ -63,8 +63,8 @@ the observation-based, gridded datasets.
 Note that it is not until  2002 that we have the four datasets all available. 
 Before 2002, we only had EN4. (![Click to see in detail the datasets](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/tree/main/1.download_datasets#ocean-datasets-temperature-and-salinity))
 
-Two points to cover here: First, from this time series, we found that THE EDW ventilated volume reaches 
-its maximum in march. Second, THE extreme occurrences take place every 3 years.
+Two points to cover here: First, from this time series, we found that the EDW ventilated volume reaches 
+its maximum in march. Second, the extreme occurrences take place every 3 years.
 
 With all that information, we now take a more focused look at the 2002-20 EDW freshly ventilated volume.
 
