@@ -77,9 +77,9 @@ We put them in parenthesis. We found the following as the extreme occurrences:
 For the strong years, we have 2005, 2010, and 2013, for the weak years, we have 2008, 2009, 2012, and 2014.
 
 With these EDW extreme years in mind, I made a little animation of the EDW activity in the period of 2009 to 2013.
-It is an example to show how EDW evolves over time. 
+It is an example to show how EDW evolves over time.
 
-https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/2009-2013_v2.mp4
+<video src='https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/2009-2013_v2.mp4' width=180/>
 
 
 
