@@ -45,7 +45,7 @@ How do we define the EDW extremes?
 of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
-<sub>1950-2020 interannual variability of EDW outcropping volume
+<sub>Figure 4-1: 1950-2020 interannual variability of EDW outcropping volume
     and its extreme occurrences in years.
     (Upper) The interannual variability of seasonal-maximum EDW
     outcropping volume is in
@@ -67,4 +67,4 @@ of the interannual variability of EDW freshly ventilated volume
     The green errorbars indicate the unbiased standard deviation among several
     data products at the seasonal maximum. 
     We used the EN4, ISAS, Scripps, and IPRC datasets to produce the
-    time series.</sub>
+    time series. Source ![Li 2020](https://www.theses.fr/2020BRES0085).</sub>
