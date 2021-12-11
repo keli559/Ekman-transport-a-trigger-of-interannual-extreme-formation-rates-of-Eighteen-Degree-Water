@@ -46,8 +46,28 @@ of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
 
+The diagram below shows the EDW ventilated volume in Svys. <strong>Black dots</strong> indicate the seasonal volume maxima in March
+We rid that time series of the seasonal cycle, then we applied a 6-50 month band pass filter to obtain the interannual time series located below. We selected as extremes the outliers that exceed plus or minus standard deviation of the interannual time series. 
+
+With all that, let’s take a look at the direct results. 
+## Direct Results
 <sub>Figure 4-1 1950-2020 interannual variability of EDW outcropping volume and its extreme occurrences.
 (<strong>Upper</strong>) The interannual variability of seasonal-maximum EDW outcropping volume is in the solid blue line with dots.
 (<strong>Lower</strong>) The orignal time series of the EDW outcropping volume is in solid black line with dots.
 We used the EN4, ISAS, Scripps, and IPRC datasets to produce the time series.
 Source: [Li 2020](https://www.theses.fr/2020BRES0085)</sub>
+
+We used 4 datasets to realise this plot: EN4, ISAS, SCRIPPS and IPRC. they are 
+the observation-based, gridded datasets. 
+Note that it is not until  2002 that we have the four datasets all available. 
+Before 2002, we only had EN4. (![Click to see in detail the datasets](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/tree/main/1.download_datasets#ocean-datasets-temperature-and-salinity))
+
+Two points to cover here: First, from this time series, we found that THE EDW ventilated volume reaches 
+its maximum in march. Second, THE extreme occurrences take place every 3 years.
+
+With all that information, we now take a more focused look at the 2002-20 EDW freshly ventilated volume.
+
+
+
+
+
