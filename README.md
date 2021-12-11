@@ -5,10 +5,10 @@ This region experienced warming since 1970s. This schematic shows the Gulf strea
 
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/subtropical_ke_li.png)
 
-The branches indicate the currents. Branch A  is the North Atlantic Current, Branch B indicates the eastward traveling subtropical branch.
+<sub>The branches indicate the currents. Branch A  is the North Atlantic Current, Branch B indicates the eastward traveling subtropical branch.
 Branch C indicates the southern branch of the subtropical recirculation gyre. 
 And Branch D indicates the northern cyclonic recirculation gyre. 
-The blue colored contours in depth indicate the deepest mixed layer depth.
+The blue colored contours in depth indicate the deepest mixed layer depth.</sub>
 
 
 The subtropical gyre drives the Gulf Stream. 
