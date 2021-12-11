@@ -31,7 +31,9 @@ Isas-15 temperature and salinity gridded fields. SEANOE, http://doi.org/10.17882
 * Roemmich, D., & Gilson, J. (2009). The 2004–2008 mean and annual cycle of temperature, salinity, and steric height in the global ocean from the argo program. Progress in oceanography, 82 (2), 81–100.
 * APDRC. (2009, June). International pacific research center. Asia-Pacific Data Research Center. Retrieved from <http://apdrc.soest.hawaii.edu/projects/Argo/data/Documentation/gridded-var.pdf>
 * CMEMS. (2020). Global ocean gridded l4 sea surface heights and derived variables reprocessed (1993-ongoing). E.U. Copernicus Marine Service Information. Retrieved from <https://resources.marine.copernicus.eu/?option=com_csw&view=details&product_id=SEALEVEL_GLO_PHY_L4_REP_OBSERVATIONS_008_047>
-
+* Rio, M. (2009). A new mean dynamic topography computed over the global ocean from grace data, altimetry and in situ measurements. In Poster communication at oceanobs09 symposium, 21-25 september 2009, venice.
+* Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., . . . others (1996). The ncep/ncar 40-year reanalysis project. Bulletin of the American meteorological Society, 77 (3), 437–472.
+* Dee, D. P., Uppala, S. M., Simmons, A., Berrisford, P., Poli, P., Kobayashi, S., . . . others (2011). The era-interim reanalysis: Configuration and performance of the data assimilation system. Quarterly Journal of the royal meteorological society, 137 (656), 553–597.
 
 
 
