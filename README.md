@@ -86,7 +86,7 @@ https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-form
   <source type="video/mp4" src="https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/2009-2013_v2.mp4">
 </video>
 
-[!(https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/snap_2010-03.png)](https://drive.google.com/file/d/1BlRK6G2K8UWQmgqlD4UMpIggfEdJTZqT/view?usp=sharing)
+[![link](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/snap_2010-03.png)](https://drive.google.com/file/d/1BlRK6G2K8UWQmgqlD4UMpIggfEdJTZqT/view?usp=sharing)
 
 
 
