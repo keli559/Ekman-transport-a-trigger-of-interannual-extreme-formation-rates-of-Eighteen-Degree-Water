@@ -40,12 +40,6 @@ How do we define the EDW extremes?
 
 ### Interannual Variability
 * The variability within 6-50 month window
-### EDW Extreme
+### EDW Extremes
 * Outliers that exceed ![equation](https://render.githubusercontent.com/render/math?math=\pm1\sigma) of the interannual variability of EDW freshly ventilated volume
-
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
-
-
-
-
-
+* Note the non-Gaussian distribution of the total sampling
