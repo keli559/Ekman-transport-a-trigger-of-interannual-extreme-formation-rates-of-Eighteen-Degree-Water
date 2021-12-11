@@ -59,7 +59,13 @@ With that we take a look at the variability of the EDW entire volume.
 The EDW volume varies from interannual to decadal scales. This diagram shows the time series of the EDW volume and NAO indices. <strong>Horizontal axis</strong> gives the time axis in years. <strong>Vertical axis</strong> gives the normalised values of THE EDW entire volume as well as the NAO indices. Note that it is “THE NAO indices times minus one”,  that is plotted. A positive value corresponds to a strong NAO-. On the decadal scale, research has shown that the NAO is anti-correlated with the EDW volume. This anticorrelation can also be observed on the interannual time scale at the beginning of the time series. But not towards the end. It is more complicated since mid 1980s.
 
 Over the last 15 years, with better datasets, some specific strong or weak EDW formation events were studied. These studies explored the dynamics behind these individual EDW events. For example, the weak EDW formation in 2011 to 2012.
-###
+###Interannual: near cessation of EDW in 2011-2012
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_10_ke_li.png)
+
+Here is a study carried out by Billheimer and Talley, about the “near cessation of EDW in 2012”. They identified preconditioning and air-sea heat fluxes as factors contributing to this weak EDW formation event. They showed that at the beginning of the ventilation season, like in september, the near-surface stratification wasn’t even that strong. They called it a favorable preconditioning, potentially for an early spring deep convection. Even with that, the 2012 weak winter air-sea heat loss was not enough to de-stratify the seasonal pycnocline, indicated in <strong>yellow shades</strong> in the diagram, near the surface. The weak wintertime forcing was the driving force behind this weak EDW event.
+
+By the way, for the notation, in this presentation, the wintertime of a year refers to the period from September of the previous year to March of the current year.
+
 
 
 
