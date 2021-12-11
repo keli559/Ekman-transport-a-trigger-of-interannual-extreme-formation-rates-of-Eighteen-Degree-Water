@@ -28,7 +28,7 @@ Firstly, we will introduce EDW's location, identify the EDW criteria. Then, we w
 ## Methodology
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_15_ke_li.png)
 
-We estimated the heat budget in our domain of analysis. In this figure, the <strong>grey contours</strong> indicate the SSH. Especially, the <strong>thick green solid contour</strong> is THE SSH of 0.39m, indicating the mean Gulf Stream position. On <strong>purple</strong> is the deepest mixed layer depth in meters.
+We estimated the heat budget in our domain of analysis. In this figure, the <strong>grey contours</strong> indicate the SSH. Especially, the <strong>thick green solid contour</strong> is the SSH of 0.39m, indicating the mean Gulf Stream position. On <strong>purple</strong> is the deepest mixed layer depth in meters.
 
 We start by the temperature equation: the temperature change of a water mass is the function of the external forcings. We integrated this equation over the domain of analysis, and then we multiplied with reference density and the sea-water heat capacity. This gives us:
 * the heat content change of a fixed water column, with a depth of 800 meters, is a function of 
