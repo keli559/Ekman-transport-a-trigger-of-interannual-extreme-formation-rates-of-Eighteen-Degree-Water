@@ -41,7 +41,7 @@ How do we define the EDW extremes?
 ### Interannual Variability
 * The variability within 6-50 month window
 ### EDW Extreme
-* Outliers that exceed ![equation](https://render.githubusercontent.com/render/math?math=\pm)1 of the interannual variability of EDW freshly ventilated volume
+* Outliers that exceed ![equation](https://render.githubusercontent.com/render/math?math=\pm1\sigma)1 of the interannual variability of EDW freshly ventilated volume
 ![equation](https://render.githubusercontent.com/render/math?math=1.0^{\circ})
 * Note the non-Gaussian distribution of the total sampling
 
