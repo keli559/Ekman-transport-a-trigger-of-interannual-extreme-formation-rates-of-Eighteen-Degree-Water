@@ -42,7 +42,7 @@ Next, we take a look at another important process of EDW: the subduction.
 ### Gulf Stream system
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_7_ke_li.png)
 
-This diagram shows the EDW bulk and its subduction through the base of the winter deepest mixed layer. The meridional cut is at 60W, right through the bulk of the EDW The zonal cut is at 30N. Located at the southern edge of the EDW bulk, near the Bermuda station. At the two vertical domains, the <strong>color shades</strong> denote the potential vorticity. The <strong>red shades<strong> mark high PV, indicating strongly stratified water. The <strong>purple shades</strong> mark low PV, indicating nearly homogeneous water.
+This diagram shows the EDW bulk and its subduction through the base of the winter deepest mixed layer. The meridional cut is at 60W, right through the bulk of the EDW The zonal cut is at 30N. Located at the southern edge of the EDW bulk, near the Bermuda station. At the two vertical domains, the <strong>color shades</strong> denote the potential vorticity. The <strong>red shades</strong> mark high PV, indicating strongly stratified water. The <strong>purple shades</strong> mark low PV, indicating nearly homogeneous water.
 
 The <strong>blue solid</strong> contours are the 17 and 19 celsius degree isotherms. The <strong>blue dashed contour</strong> in the middle is the 18 celsius degree isotherms. The <strong>grey contours</strong> indicate THE SSH. The <strong>solid black curve</strong> marks the mixed layer depth. The <strong>green dashed straight lines</strong> mark our domain of analysis.
 
