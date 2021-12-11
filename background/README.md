@@ -53,6 +53,8 @@ In their study, they mentioned preconditioning. What is preconditioning? Here is
 
 To form large volume of mode water, a vigorous wintertime deep convection can be facilitated by a light stratification near the surface in the precedent fall. In this case, we call the light stratification a favorable preconditioning for the mode water formation.
 
+Indeed, some strong and weak EDW events have been investigated. However, the term “EDW extremes” has never been mentioned nor documented. In the literature. We aim to carry out a systematic study of these extremes and the mechanisms behind.
+
 
 ## ![Go to main menu](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/#the-gulf-stream-system)
 
