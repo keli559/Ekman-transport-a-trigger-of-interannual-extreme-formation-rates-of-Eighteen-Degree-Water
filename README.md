@@ -3,7 +3,7 @@
 The North Atlantic Subtropical Gyre is the largest heat reservoir on Earth
 This region experienced warming since 1970s. This schematic shows the Gulf stream system:
 
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/subtropical.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/subtropical_ke_li.png)
 
 The branches indicate the currents. Branch A  is the North Atlantic Current, Branch B indicates the eastward traveling subtropical branch.
 Branch C indicates the southern branch of the subtropical recirculation gyre. 
