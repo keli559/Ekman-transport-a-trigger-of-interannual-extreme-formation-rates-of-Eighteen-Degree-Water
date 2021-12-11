@@ -31,6 +31,15 @@ We chose a point to look at the vertical profile of EDW. Figure (a) shows its te
 
 let’s take a look at the typical seasonal cycle of EDW
 
- 
+###
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_5_ke_li.png)
+
+This figure shows the EDW seasonal cycle from a potential vorticity point of view. The water column is picked at 55W, 36N, from the map to the left. <strong>The green curves</strong> indicate the mixed layer depth. <strong>The color shades</strong> indicate the PV flux. A positive value in grey indicates a PV loss, and a negative value in red indicates a PV gain.
+
+From September to march, the EDW water column experienced PV loss at the surface, associated with strong winter air-sea heat loss. The mixed layer deepens, reaching maximum depth in March. After April, the water column experienced PV gain at the surface, associated with weak air-sea heat loss. The bottom of the mixed layer quickly shoals.
+
+Next, we take a look at another important process of EDW: the subduction.
+
+
 
 
