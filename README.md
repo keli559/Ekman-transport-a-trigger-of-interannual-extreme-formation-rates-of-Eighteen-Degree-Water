@@ -4,7 +4,7 @@
 In the North Atlantic subtropical gyre, the Eighteen Degree Water (EDW) is a voluminous heat reservoir, submerged under a seasonal pycnocline that can be progressively removed through the winter, allowing an EDW ventilation in the early spring. We tar-get the EDW formation extremes, namely 2004-2005, 2009-2010, and 2012-2013 for the strong years, and 2007-2008, 2008-2009, 2011-2012, and 2013-2014 for the weak years. We employ gridded hydrographic datasets mainly measured by Argo floats over the last20 years, and provide a synthetic study on the extreme events of strong and weak EDW formation of this time period. We found that the Ekman transport is the indicator and driving mechanism explaining these extremes. Strong (Weak) EDW formation years correspond with atmospheric patterns resembling NAO- (NAO+), attributed to a strong(weak) winter air-sea surface heat loss, and a strong (weak) winter heat loss due to Ekman transport. Further, we show that such extreme Ekman advection patterns can belinked to mid-latitude storms, of which both intensity and duration have an impact onthe extreme of EDW ventilation in the western subtropical North Atlantic. To yield astrong EDW formation, it requires a large winter heat deficit due to Ekman transport,which can be sufficiently represented by numbers of strong winter storms, most notably,remnants of hurricanes and US east coast snowstorms. Meanwhile, to yield a weak EDW formation, apart from weak atmospheric forcings, a remnant heat content anomaly carried through from previous years would serve as an unfavorable preconditioning, hindering the EDW formation.
 
 ## Background
-### What is EDW?
+### The Gulf Stream system
 The North Atlantic Subtropical Gyre is the largest heat reservoir on Earth
 This region experienced warming since 1970s. This schematic shows the Gulf stream system:
 
@@ -22,7 +22,7 @@ To understand how EDW contributes to the subtropical gyre
 
 First of all, what is EDW?
 
-###
+### What’s Eighteen Degree Water (EDW)?
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_5_ke_li.png)
 
 <strong>Figure (b)</strong> shows the spatial distribution of EDW in the north Atlantic. <strong>Shaded in blue</strong> is the EDW thickness in meters. <strong>The Grey contours</strong> indicate the SSH. Especially, <strong>the thick grey contour</strong> indicates the SSH of 0.39 meters, marking the mean position of the Gulf Stream. The EDW bulk is situated south of the Gulf Stream. EDW at the core has an averaged thickness around 300-400 meters. <strong>The blue solid contours</strong> give the 17 and 19 celsius degree isotherms. The dashed contour in the middle, gives the 18 celsius degree isotherm. They are the SSTs of the deepest mixed layer in the early spring. In between the isotherms is the largest possible EDW surface outcropping area, calculated from 2002 to 2020. The outcropping area is where the EDW ventilation takes place. I want to point out that the outcropping region is much less than The EDW distribution.
@@ -31,7 +31,7 @@ We chose a point to look at the vertical profile of EDW. Figure (a) shows its te
 
 let’s take a look at the typical seasonal cycle of EDW
 
-###
+### EDW Ventilation: Seasonal Cycle
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_6_ke_li.png)
 
 This figure shows the EDW seasonal cycle from a potential vorticity point of view. The water column is picked at 55W, 36N, from the map to the left. <strong>The green curves</strong> indicate the mixed layer depth. <strong>The color shades</strong> indicate the PV flux. A positive value in grey indicates a PV loss, and a negative value in red indicates a PV gain.
