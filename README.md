@@ -49,7 +49,7 @@ This diagram shows the EDW bulk and its subduction through the base of the winte
 The Subduction takes place at the southern flank of the EDW bulk. It is the horizontal induction at the bottom of the mixed layer. The subducted mode water is carried by the southern branch of the recirculation gyre. Therefore, a favorable condition for a strong subduction would be: 1. The presence of a large bulk of EDW, and 2. Strong southern branch of the recirculation gyre. 
 
 EDW is the largest heat reservoir with constant temperature in the subtropical gyre. How does EDW contribute to the subtropical gyre ocean heat content?
-### EDW volume <--> with its heat content
+### Anticorrelation: EDW volume and its heat content
 Research has shown that on the decadal scale, the larger EDW volume corresponds with colder EDW temperature. Since the seasonal pycnocline changes more than the permanent pycnocline, both in terms of magnitude and frequency. We have some knowledge about this relation, for example, that the EDW volume and its heat content are anticorrelated.
 
 With that we take a look at the variability of the EDW entire volume.
