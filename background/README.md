@@ -1,6 +1,4 @@
 # Background
-First of all, what is EDW?
-
 ## What’s Eighteen Degree Water (EDW)?
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/background/slide_5_ke_li.png)
 
