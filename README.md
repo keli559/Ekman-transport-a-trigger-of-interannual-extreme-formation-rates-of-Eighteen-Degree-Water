@@ -41,6 +41,30 @@ How do we define the EDW extremes?
 ### Interannual Variability
 * The variability within 6-50 month window
 ### EDW Extremes
-* Outliers that exceed ![equation](https://render.githubusercontent.com/render/math?math=\pm1\sigma) of the interannual variability of EDW freshly ventilated volume
+* Outliers that exceed ![equation](https://render.githubusercontent.com/render/math?math=\pm1\sigma)
+of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
+<sub>1950-2020 interannual variability of EDW outcropping volume
+    and its extreme occurrences in years.
+    (Upper) The interannual variability of seasonal-maximum EDW
+    outcropping volume is in
+    the solid blue line with dots.
+    The unbiased standard deviation of OHC among datasets
+    is shaded in grey.
+    The grey dashed lines are the standard deviation
+    ![equation](https://render.githubusercontent.com/render/math?math=\sigma) of the time series.
+    The histogram of interannual OHC values is to the
+    right (the blue bars).
+    The black solid line indicates the non-Gaussian kernel of this histogram,
+    containing two superimposed Gaussian kernels (dashed black curves) 
+    The months with OHC greater than
+    $\sigma$ are in short solid red lines in the
+    ``rug'' plot, and those smaller than ![equation](https://render.githubusercontent.com/render/math?math=-\sigma) are in cyan.
+    (Lower) The orignal time series of the EDW outcropping volume is in
+    solid black line with dots.
+    The black dots on the curve marks the EDW outcropping volume in March.
+    The green errorbars indicate the unbiased standard deviation among several
+    data products at the seasonal maximum. 
+    We used the EN4, ISAS, Scripps, and IPRC datasets to produce the
+    time series.</sub>
