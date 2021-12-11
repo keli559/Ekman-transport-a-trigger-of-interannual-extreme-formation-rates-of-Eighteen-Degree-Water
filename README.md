@@ -46,10 +46,8 @@ of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
 
-<sub>
-Figure 4-1 1950-2020 interannual variability of EDW outcropping volume and its extreme occurrences.
+<sub>Figure 4-1 1950-2020 interannual variability of EDW outcropping volume and its extreme occurrences.
 (<strong>Upper</strong>) The interannual variability of seasonal-maximum EDW outcropping volume is in the solid blue line with dots.
 (<strong>Lower</strong>) The orignal time series of the EDW outcropping volume is in solid black line with dots.
 We used the EN4, ISAS, Scripps, and IPRC datasets to produce the time series.
-Source: [Li 2020](https://www.theses.fr/2020BRES0085)
-</sub>
+Source: [Li 2020](https://www.theses.fr/2020BRES0085)</sub>
