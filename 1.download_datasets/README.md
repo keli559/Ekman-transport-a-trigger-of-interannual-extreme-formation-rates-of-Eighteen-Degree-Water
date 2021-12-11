@@ -26,6 +26,11 @@
 
 ## Citations
 * Good, S. A., Martin, M. J., & Rayner, N. A. (2013). En4: Quality controlled ocean temperature and salinity profiles and monthly objective analyses with uncertainty estimates. Journal of Geophysical Research: Oceans, 118 (12), 6704–6716.
+* Kolodziejczyk, N., Prigent-Mazella, A., & Gaillard, F. (2017). Bulletin of the
+Isas-15 temperature and salinity gridded fields. SEANOE, http://doi.org/10.17882/52367, 10, 52367.
+* Roemmich, D., & Gilson, J. (2009). The 2004–2008 mean and annual cycle of temperature, salinity, and steric height in the global ocean from the argo program. Progress in oceanography, 82 (2), 81–100.
+* APDRC. (2009, June). International pacific research center. Asia-Pacific Data Research Center. Retrieved from <http://apdrc.soest.hawaii.edu/projects/Argo/data/Documentation/gridded-var.pdf>
+
 
 
 
