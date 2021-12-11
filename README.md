@@ -21,6 +21,6 @@ Firstly, we will introduce EDW's location, identify the EDW criteria. Then, we w
 ## To be addressed:
 ##### 1. With Argo observational datasets, we aim to investigate the North Atlantic basin subsurface signatures of extreme winters
 ##### 2. Given better quality of datasets since 2000s, we aim to understand the drivers of EDW extreme years, through the following factors:
-     <strong>a. Air-sea heat fluxes</strong>
-     <strong>b. Ekman current</strong>
-     <strong>c. Preconditioning</strong>
+     <strong>Air-sea heat fluxes</strong>
+     <strong>Ekman current</strong>
+     <strong>Preconditioning</strong>
