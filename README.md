@@ -68,6 +68,14 @@ Here is a study carried out by Billheimer and Talley, about the “near cessatio
 
 By the way, for the notation, in this presentation, the wintertime of a year refers to the period from September of the previous year to March of the current year.
 
+### Preconditioning
+
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_11_ke_li.png)
+
+In their study, they mentioned preconditioning. What is preconditioning? Here is a snapshot in September 2011, before the EDW formation starts. This time, I want to focus on the two side-cross-sections. The <strong>color shades<\strong> indicate the potential vorticity. Shaded in <strong>dark red<\strong> near the surface is the stratified water, and in <strong>light purple<\strong> is the nearly homogeneous water. Thus, the preconditioning refers to the amount of heat in September, that needs to be removed, so that the near-surface stratification can be gone, and so that the EDW can ventilate to the surface in the early spring.
+
+To form large volume of mode water, a vigorous wintertime deep convection can be facilitated by a light stratification near the surface in the precedent fall. In this case, we call the light stratification a favorable preconditioning for the mode water formation.
+
 
 
 
