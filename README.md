@@ -72,7 +72,7 @@ With all that information, we now take a more focused look at the 2002-20 EDW fr
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_19_ke_li.png)
 
 Here we zoom in from the previous plot, we selected as extremes the outliers that surpass the plus and minus standard deviation. 
-Considering its non-gaussian distribution,  we as well counted as the extremes the local maxima and minima
+Considering its non-gaussian distribution,  we as well counted as the extremes the local maxima and minima.
 We put them in parenthesis. We found the following as THE extreme occurrences:
 For the strong years, we have 2005, 2010, and 2013, for the weak years, we have 2008, 2009, 2012, and 2014.
 
