@@ -44,13 +44,14 @@ How do we define the EDW extremes?
 * Outliers that exceed ![equation](https://render.githubusercontent.com/render/math?math=\pm1\sigma)
 of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
 
 The diagram below shows the EDW ventilated volume in Svys. <strong>Black dots</strong> indicate the seasonal volume maxima in March
 We rid that time series of the seasonal cycle, then we applied a 6-50 month band pass filter to obtain the interannual time series located below. We selected as extremes the outliers that exceed plus or minus standard deviation of the interannual time series. 
 
 With all that, let’s take a look at the direct results. 
 ## Direct Results
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
+
 <sub>Figure 4-1 1950-2020 interannual variability of EDW outcropping volume and its extreme occurrences.
 (<strong>Upper</strong>) The interannual variability of seasonal-maximum EDW outcropping volume is in the solid blue line with dots.
 (<strong>Lower</strong>) The orignal time series of the EDW outcropping volume is in solid black line with dots.
