@@ -22,3 +22,15 @@ To understand how EDW contributes to the subtropical gyre
 
 First of all, what is EDW?
 
+###
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_5_ke_li.png)
+
+<strong>Figure (b)</strong> shows the spatial distribution of EDW in the north Atlantic. <strong>Shaded in blue</strong> is the EDW thickness in meters. <strong>The Grey contours</strong> indicate the SSH. Especially, <strong>the thick grey contour</strong> indicates the SSH of 0.39 meters, marking the mean position of the Gulf Stream. The EDW bulk is situated south of the Gulf Stream. EDW at the core has an averaged thickness around 300-400 meters. <strong>The blue solid contours</strong> give the 17 and 19 celsius degree isotherms. The dashed contour in the middle, gives the 18 celsius degree isotherm. They are the SSTs of the deepest mixed layer in the early spring. In between the isotherms is the largest possible EDW surface outcropping area, calculated from 2002 to 2020. The outcropping area is where the EDW ventilation takes place. I want to point out that the outcropping region is much less than The EDW distribution.
+
+We chose a point to look at the vertical profile of EDW. Figure (a) shows its temperature profile in August. It is a typical summertime EDW profile. The vertical axis indicates depth in meters. The horizontal axis indicates temperature in celsius degrees. Shaded in gray is the EDW, poorly stratified. In summer, The EDW is stuck between the seasonal pycnocline above and the permanent pycnocline at the bottom.
+
+let’s take a look at the typical seasonal cycle of EDW
+
+ 
+
+
