@@ -30,6 +30,7 @@
 Isas-15 temperature and salinity gridded fields. SEANOE, http://doi.org/10.17882/52367, 10, 52367.
 * Roemmich, D., & Gilson, J. (2009). The 2004–2008 mean and annual cycle of temperature, salinity, and steric height in the global ocean from the argo program. Progress in oceanography, 82 (2), 81–100.
 * APDRC. (2009, June). International pacific research center. Asia-Pacific Data Research Center. Retrieved from <http://apdrc.soest.hawaii.edu/projects/Argo/data/Documentation/gridded-var.pdf>
+* CMEMS. (2020). Global ocean gridded l4 sea surface heights and derived variables reprocessed (1993-ongoing). E.U. Copernicus Marine Service Information. Retrieved from <https://resources.marine.copernicus.eu/?option=com_csw&view=details&product_id=SEALEVEL_GLO_PHY_L4_REP_OBSERVATIONS_008_047>
 
 
 
