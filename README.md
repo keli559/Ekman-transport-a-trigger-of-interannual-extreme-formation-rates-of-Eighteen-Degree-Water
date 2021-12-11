@@ -67,4 +67,4 @@ of the interannual variability of EDW freshly ventilated volume
     The green errorbars indicate the unbiased standard deviation among several
     data products at the seasonal maximum. 
     We used the EN4, ISAS, Scripps, and IPRC datasets to produce the
-    time series. Source ![Li 2020](https://www.theses.fr/2020BRES0085).</sub>
+    time series. Source [Li 2020](https://www.theses.fr/2020BRES0085).</sub>
