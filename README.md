@@ -45,27 +45,11 @@ How do we define the EDW extremes?
 of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
-<sub>Figure 4-1: 1950-2020 interannual variability of EDW outcropping volume
-    and its extreme occurrences in years.
-    (Upper) The interannual variability of seasonal-maximum EDW
-    outcropping volume is in
-    the <strong>solid blue line with dots</strong>.
-    The unbiased standard deviation of OHC among datasets
-    is <strong>shaded in grey</strong>.
-    The <strong>grey dashed lines</strong> are the standard deviation
-    ![equation](https://render.githubusercontent.com/render/math?math=\sigma) of the time series.
-    The histogram of interannual OHC values is to the
-    right (<strong>the blue bars</strong>).
-    The <strong>black solid line</strong> indicates the non-Gaussian kernel of this histogram,
-    containing two superimposed Gaussian kernels (dashed black curves) 
-    The months with OHC greater than
-    ![equation](https://render.githubusercontent.com/render/math?math=\sigma)
-    are in <strong>short solid red lines</strong> in the
-    ``rug'' plot, and those smaller than ![equation](https://render.githubusercontent.com/render/math?math=-\sigma) are in cyan.
-    (Lower) The orignal time series of the EDW outcropping volume is in
-    <strong>solid black line with dots</strong>.
-    The <strong>black dots</strong> on the curve marks the EDW outcropping volume in March.
-    The <strong>green errorbars</strong> indicate the unbiased standard deviation among several
-    data products at the seasonal maximum. 
-    We used the EN4, ISAS, Scripps, and IPRC datasets to produce the
-    time series. Source: [Li 2020](https://www.theses.fr/2020BRES0085).</sub>
+
+<sub>
+Figure 4-1 1950-2020 interannual variability of EDW outcropping volume and its extreme occurrences.
+(<strong>Upper</strong>) The interannual variability of seasonal-maximum EDW outcropping volume is in the solid blue line with dots.
+(<strong>Lower</strong>) The orignal time series of the EDW outcropping volume is in solid black line with dots.
+We used the EN4, ISAS, Scripps, and IPRC datasets to produce the time series.
+Source: [Li 2020](https://www.theses.fr/2020BRES0085)
+</sub>
