@@ -43,4 +43,4 @@ How do we define the EDW extremes?
 ### EDW Extremes
 * Outliers that exceed ![equation](https://render.githubusercontent.com/render/math?math=\pm1\sigma) of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.pdf)
