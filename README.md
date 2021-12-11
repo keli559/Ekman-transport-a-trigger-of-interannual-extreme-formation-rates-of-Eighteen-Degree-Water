@@ -73,7 +73,7 @@ With all that information, we now take a more focused look at the 2002-20 EDW fr
 
 Here we zoom in from the previous plot, we selected as extremes the outliers that surpass the plus and minus standard deviation. 
 Considering its non-gaussian distribution,  we as well counted as the extremes the local maxima and minima.
-We put them in parenthesis. We found the following as THE extreme occurrences:
+We put them in parenthesis. We found the following as the extreme occurrences:
 For the strong years, we have 2005, 2010, and 2013, for the weak years, we have 2008, 2009, 2012, and 2014.
 
 With these EDW extreme years in mind, I made a little animation of the EDW activity in the period of 2009 to 2013.
