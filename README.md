@@ -46,7 +46,7 @@ This diagram shows the EDW bulk and its subduction through the base of the winte
 
 <sub>At the two vertical domains, the <strong>color shades</strong> denote the potential vorticity. The <strong>red shades</strong> mark high PV, indicating strongly stratified water. The <strong>purple shades</strong> mark low PV, indicating nearly homogeneous water. The <strong>blue solid</strong> contours are the 17 and 19 celsius degree isotherms. The <strong>blue dashed contour</strong> in the middle is the 18 celsius degree isotherms. The <strong>grey contours</strong> indicate the SSH. The <strong>solid black curve</strong> marks the mixed layer depth. The <strong>green dashed straight lines</strong> mark our domain of analysis.</sub>
 
-The Subduction takes place at the southern flank of the EDW bulk. It is the horizontal induction at the bottom of the mixed layer. The subducted mode water is carried by the southern branch of the recirculation gyre. Therefore, a favorable condition for a strong subduction would be: 1. The presence of a large bulk of EDW 2. Strong southern branch of the recirculation gyre. 
+The Subduction takes place at the southern flank of the EDW bulk. It is the horizontal induction at the bottom of the mixed layer. The subducted mode water is carried by the southern branch of the recirculation gyre. Therefore, a favorable condition for a strong subduction would be: 1. The presence of a large bulk of EDW, and 2. Strong southern branch of the recirculation gyre. 
 
 EDW is the largest heat reservoir with constant temperature in the subtropical gyre. How does EDW contribute to the subtropical gyre ocean heat content?
 
