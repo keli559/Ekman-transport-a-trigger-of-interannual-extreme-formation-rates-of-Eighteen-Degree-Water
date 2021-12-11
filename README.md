@@ -19,11 +19,8 @@ The subtropical gyre drives the Gulf Stream. The eighteen degree mode water is s
 Firstly, we will introduce EDW's location, identify the EDW criteria. Then, we will review the EDW seasonal cycle and the EDW subduction. We will examine the correlation of EDW volume and EDW heat content, the correlation of EDW volume and NAO. Lastly, we will review the dynamics behind an individual EDW event, in terms of the roles that play air-sea heat loss, preconditioning. ![Click here for details](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/tree/main/background#whats-eighteen-degree-water-edw)
 
 ## To be addressed:
-1. With Argo observational datasets, we aim to investigate the North Atlantic basin subsurface signatures of extreme winters
-2. Given better quality of datasets since 2000s, we aim to understand the drivers of EDW extreme years.
-
-a. Air-sea heat fluxes
-
-b. Ekman current
-
-c. Preconditioning
+##### 1. With Argo observational datasets, we aim to investigate the North Atlantic basin subsurface signatures of extreme winters
+##### 2. Given better quality of datasets since 2000s, we aim to understand the drivers of EDW extreme years, through the following factors:
+###### a. Air-sea heat fluxes
+###### b. Ekman current
+###### c. Preconditioning
