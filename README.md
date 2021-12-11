@@ -79,7 +79,7 @@ For the strong years, we have 2005, 2010, and 2013, for the weak years, we have 
 With these EDW extreme years in mind, I made a little animation of the EDW activity in the period of 2009 to 2013.
 It is an example to show how EDW evolves over time. 
 
-![2009-2013](https://drive.google.com/file/d/19RKOYfBUT62hWQrcZ37JZc03Pf-s7cv-/view?usp=sharing)
+[2009-2013](https://drive.google.com/file/d/19RKOYfBUT62hWQrcZ37JZc03Pf-s7cv-/view?usp=sharing)
 
 
 
