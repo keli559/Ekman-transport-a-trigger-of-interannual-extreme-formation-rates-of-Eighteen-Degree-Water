@@ -15,8 +15,7 @@ The blue colored contours in depth indicate the deepest mixed layer depth.</sub>
 
 The subtropical gyre drives the Gulf Stream. The eighteen degree mode water is situated In the mid of the subtropical gyre. We aim to investigate the heat content of this region, to understand how EDW contributes to the subtropical gyre from the heat content point of view.
 
-In the the following subsection ![Background](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/tree/main/background#whats-eighteen-degree-water-edw)
 
-Firstly, we will introduce EDW's location, identify the EDW criteria. Then, we will review the EDW seasonal cycle and the EDW subduction. We will examine the correlation of EDW volume and EDW heat content, the correlation of EDW volume and NAO. Lastly, we will review the dynamics behind an individual EDW event, in terms of the roles that play air-sea heat loss, preconditioning.
+Firstly, we will introduce EDW's location, identify the EDW criteria. Then, we will review the EDW seasonal cycle and the EDW subduction. We will examine the correlation of EDW volume and EDW heat content, the correlation of EDW volume and NAO. Lastly, we will review the dynamics behind an individual EDW event, in terms of the roles that play air-sea heat loss, preconditioning. ![Click here for details](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/tree/main/background#whats-eighteen-degree-water-edw)
 
 Given this background, we concluded: In deed, some strong and weaK EDW events have been investigated. However, the term “EDW extremes” has never been mentioned nor documented. In the literature. We aim to carry out a systematic study of these extremes and the mechanisms behind.
