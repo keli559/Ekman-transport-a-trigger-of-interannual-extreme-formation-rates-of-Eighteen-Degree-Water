@@ -45,7 +45,7 @@ How do we define the EDW extremes?
 of the interannual variability of EDW freshly ventilated volume
 * Note the non-Gaussian distribution of the total sampling
 
-The diagram below shows the EDW ventilated volume in Svys. <strong>Black dots</strong> indicate the seasonal volume maxima in March
+The diagram below shows the EDW ventilated volume in Svys. <strong>Black dots</strong> indicate the seasonal volume maxima in March.
 We rid that time series of the seasonal cycle, then we applied a 6-50 month band pass filter to obtain the interannual time series located below. We selected as extremes the outliers that exceed plus or minus standard deviation of the interannual time series. 
 
 With all that, let’s take a look at the direct results. 
