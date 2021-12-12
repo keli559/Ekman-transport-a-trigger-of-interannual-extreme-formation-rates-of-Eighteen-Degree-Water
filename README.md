@@ -141,14 +141,14 @@ How does the extreme air-sea heat loss correspond with extreme EDW formation occ
 
 This diagram shows the wintertime air-sea surface heat loss, delta
 ![equation](https://render.githubusercontent.com/render/math?math=Q_{net}), in ZJ on vertical axis, accumulated from September to march. 
-A positive value in the diagram indicates a weak air-sea surface heat loss,
-and a negative value indicates a strong air-sea surface heat loss.
-The grey dashed lines are the plus and minus standard deviation to select its extremes.
-In bold curves are the extreme EDW formation years.
-Particularly, in crosses are the strong EDW formation years, 
+A <strong>positive value</strong> in the diagram indicates a weak air-sea surface heat loss,
+and a <strong>negative value</strong> indicates a strong air-sea surface heat loss.
+The <strong>grey dashed lines</strong> are the plus and minus standard deviation to select its extremes.
+In <strong>bold curves</strong> are the extreme EDW formation years.
+Particularly, <strong>in crosses</strong> are the strong EDW formation years, 
 and in dots, the weak EDW years.
 We found that all the weak EDW formation years are located above the 1 sigma line, corresponding with the extreme weak air-sea surface heat loss, 
-The strong EDW formation years, such as 2010 and 13 are located below the negative sigma line, corresponding with the extreme strong air-sea surface heat loss, 
+The strong EDW formation years, such as 2010 and 2013 are located below the negative sigma line, corresponding with the extreme strong air-sea surface heat loss, 
 However, in 2005, the strong EDW formation does not correspond with strong air-sea surface heat loss! Then we take a look at another atmospheric variable, the wind stress curl. 
 
 
