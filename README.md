@@ -80,7 +80,7 @@ With these EDW extreme years in mind, I made a little animation of the EDW activ
 It is an example to show how EDW evolves over time.
 
 ## 2009-2013 EDW activity
-[![link](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/snap_2010-03.png?raw=true){ width=50% }](https://drive.google.com/file/d/1BlRK6G2K8UWQmgqlD4UMpIggfEdJTZqT/view?usp=sharing)
+[![link](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/snap_2010-03.png?raw=true)](https://drive.google.com/file/d/1BlRK6G2K8UWQmgqlD4UMpIggfEdJTZqT/view?usp=sharing)
 
 This video (click the figure to see the video) shows the EDW activity from 2009 to 2013.
 The <strong>blue solid contours</strong> here indicate the 17 and 19 celsius degree isotherms. 
