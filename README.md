@@ -8,7 +8,7 @@ In the North Atlantic subtropical gyre, the Eighteen Degree Water (EDW) is a vol
 The North Atlantic Subtropical Gyre is the largest heat reservoir on Earth.
 This region experienced warming since 1970s. This schematic shows the Gulf stream system:
 
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/background/subtropical_ke_li.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/background/subtropical_kli559.png)
 
 <sub>The branches indicate the currents. <strong>Branch A</strong>  is the North Atlantic Current, <strong>Branch B</strong> indicates the eastward traveling subtropical branch. <strong>Branch C</strong> indicates the southern branch of the subtropical recirculation gyre. And <strong>Branch D</strong> indicates the northern cyclonic recirculation gyre. 
 The blue colored contours in depth indicate the deepest mixed layer depth.</sub>
@@ -26,7 +26,7 @@ Firstly, we will introduce EDW's location, identify the EDW criteria. Then, we w
 * Preconditioning
 
 ## Methodology
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_15_ke_li.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_15_kli559.png)
 
 We estimated the heat budget in our domain of analysis. In this figure, the <strong>grey contours</strong> indicate the SSH. Especially, the <strong>thick green solid contour</strong> is the SSH of 0.39m, indicating the mean Gulf Stream position. On <strong>purple</strong> is the deepest mixed layer depth in meters.
 
@@ -51,7 +51,7 @@ We rid that time series of the seasonal cycle, then we applied a 6-50 month band
 With all that, let’s take a look at the direct results. 
 ## Direct Results
 ### EDW extremes
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_kli559.png)
 
 <sub>Figure 4-1 1950-2020 interannual variability of EDW outcropping volume and its extreme occurrences.
 (<strong>Upper</strong>) The interannual variability of seasonal-maximum EDW outcropping volume is in the solid blue line with dots.
@@ -70,7 +70,7 @@ its maximum in march. Second, the extreme occurrences take place every 3 years.
 With all that information, we now take a more focused look at the 2002-20 EDW freshly ventilated volume.
 
 ### 2002-2020 EDW ventilated volume
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_19_ke_li.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_19_kli559.png)
 
 Here we zoom in from the previous plot, we selected as extremes the outliers that surpass the plus and minus standard deviation. 
 Considering its non-gaussian distribution,  we as well counted as the extremes the local maxima and minima.
@@ -112,7 +112,7 @@ With the EDW extremes,  we investigated the EDW driving mechanisms
 
 ## EDW Driving Mechanisms
 ### Composites - Sea level pressure
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_22_ke_li.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_22_kli559.png)
 
 First of all, we investigated the surface level pressure. 
 The two diagrams are the mapped composites of sea level pressure onto wintertime EDW renewal extremes. 
@@ -126,6 +126,7 @@ The weak EDW renewal corresponds with high pressure in our domain of analysis.
 The pattern resembles an NAO+.
 
 How about other variables, such as the air-sea surface heat loss?
+
 
 
 
