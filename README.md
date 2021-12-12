@@ -127,6 +127,16 @@ The pattern resembles an NAO+.
 
 How about other variables, such as the air-sea surface heat loss?
 
+### Composites - Air-sea heat loss
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_23_kli559.png)
+These two diagrams show the mapped composites of the air-sea surface heat loss
+The left panel is under strong EDW formation years.
+The right panel, under weak years. 
+We found that the wintertime of strong EDW formation years corresponds with strong air-sea heat loss and weak EDW years with weak air-sea heat loss.
+
+How does the extreme air-sea heat loss correspond with extreme EDW formation occurrences on a time series? 
+
+
 
 
 
