@@ -125,7 +125,7 @@ The pattern resembles an NAO-.
 The weak EDW renewal corresponds with high pressure in our domain of analysis.
 The pattern resembles an NAO+.
 
-How about other variables, such as THE air-sea surface heat loss?
+How about other variables, such as the air-sea surface heat loss?
 
 
 
