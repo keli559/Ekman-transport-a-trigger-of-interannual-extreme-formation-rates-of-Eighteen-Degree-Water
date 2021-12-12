@@ -151,6 +151,13 @@ We found that all the weak EDW formation years are located above the 1 sigma lin
 The strong EDW formation years, such as 2010 and 2013 are located below the negative sigma line, corresponding with the extreme strong air-sea surface heat loss, 
 However, in 2005, the strong EDW formation does not correspond with strong air-sea surface heat loss! Then we take a look at another atmospheric variable, the wind stress curl. 
 
+### Composites - Wind stress curl (Ekman divergence / convergence)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_25_kli559.png)
+These two diagrams show the mapped composites of surface wind stress curl. The <strong>left panel</strong> is under strong EDW formation years. <strong>The right panel</strong> under weak years.
+We observed an Ekman divergence for the strong EDW formation years, as well as a convergence for the weak years. 
+How do the extreme occurrences of Ekman heat advection
+correspond to the extreme EDW formation years? 
+
 
 
 
