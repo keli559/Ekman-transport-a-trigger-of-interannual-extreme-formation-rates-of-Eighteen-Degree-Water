@@ -50,6 +50,7 @@ We rid that time series of the seasonal cycle, then we applied a 6-50 month band
 
 With all that, let’s take a look at the direct results. 
 ## Direct Results
+### EDW extremes
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_16_ke_li.png)
 
 <sub>Figure 4-1 1950-2020 interannual variability of EDW outcropping volume and its extreme occurrences.
@@ -68,7 +69,7 @@ its maximum in march. Second, the extreme occurrences take place every 3 years.
 
 With all that information, we now take a more focused look at the 2002-20 EDW freshly ventilated volume.
 
-## 2002-2020 EDW ventilated volume
+### 2002-2020 EDW ventilated volume
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_19_ke_li.png)
 
 Here we zoom in from the previous plot, we selected as extremes the outliers that surpass the plus and minus standard deviation. 
@@ -108,6 +109,24 @@ The following winter of  2012-2013 is known as a strong EDW formation year.
 THE outcropping region is large, and the mixed layer depth is deep.
 
 With the EDW extremes,  we investigated the EDW driving mechanisms
+
+## EDW Driving Mechanisms
+### Composites - Sea level pressure
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_22_ke_li.png)
+
+First of all, we investigated the surface level pressure. 
+The two diagrams are the mapped composites of sea level pressure onto wintertime EDW renewal extremes. 
+The left panel is under strong EDW formation years,
+and the right panel is under weak years.
+The yellow lines indicate our domain of analysis.
+
+The strong EDW renewal corresponds with low pressure in our domain of analysis.
+The pattern resembles an NAO-.
+The weak EDW renewal corresponds with high pressure in our domain of analysis.
+The pattern resembles an NAO+.
+
+How about other variables, such as THE air-sea surface heat loss?
+
 
 
 
