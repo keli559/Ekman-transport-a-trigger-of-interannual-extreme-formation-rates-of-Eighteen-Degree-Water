@@ -79,14 +79,36 @@ For the strong years, we have 2005, 2010, and 2013, for the weak years, we have 
 With these EDW extreme years in mind, I made a little animation of the EDW activity in the period of 2009 to 2013.
 It is an example to show how EDW evolves over time.
 
-https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/2009-2013_v2.mov
-
-
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/2009-2013_v2.mp4">
-</video>
-
+## 2009-2013 EDW activity
 [![link](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/snap_2010-03.png?raw=true){ width=50% }](https://drive.google.com/file/d/1BlRK6G2K8UWQmgqlD4UMpIggfEdJTZqT/view?usp=sharing)
+
+This video (click the figure to see the video) shows the EDW activity from 2009 to 2013.
+The <strong>blue solid contours</strong> here indicate the 17 and 19 celsius degree isotherms. 
+They indicate the temperature criteria of EDW. 
+In June, the EDW stays trapped between seasonal and permanent pycnoclines.
+THE EDW outcropping is prohibited.
+
+We started in the summer of 2009. The surface water is stratified, <strong>in dark red</strong>. 
+Note that 2009-2010 is a strong EDW formation year.
+In the early spring, the outcropping region suddenly opens up,
+The EDW being renewed. 
+2010-2011 is a mediocre year for the EDW formation.
+The outcropping area is large but the mixed layer doesn’t deepen as much. 
+I want to point out 2011-2012, a year of weak EDW formation
+Neither the outcropping is large, nor the mixed layer depends more than 100m in depth.
+Literature calls it “ a near cessation of EDW renewal”
+The following winter of  2012-2013 is known as a strong EDW formation year. 
+THE outcropping region is large, and the mixed layer depth is deep.
+
+With the EDW extremes,  we investigated the EDW driving mechanisms
+
+
+
+ 
+
+
+
+
 
 
 
