@@ -116,9 +116,9 @@ With the EDW extremes,  we investigated the EDW driving mechanisms
 
 First of all, we investigated the surface level pressure. 
 The two diagrams are the mapped composites of sea level pressure onto wintertime EDW renewal extremes. 
-The left panel is under strong EDW formation years,
-and the right panel is under weak years.
-The yellow lines indicate our domain of analysis.
+The <strong>left panel</strong> is under strong EDW formation years,
+and the <strong>right panel</strong> is under weak years.
+The <strong>yellow lines</strong> indicate our domain of analysis.
 
 The strong EDW renewal corresponds with low pressure in our domain of analysis.
 The pattern resembles an NAO-.
