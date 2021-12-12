@@ -160,6 +160,7 @@ correspond to the extreme EDW formation years?
 
 ### Ekman heat convergence daily data
 ![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_27_kli559.png)
+
 This diagram is the daily progression version of the previous plot.
 Let’s use 2013 as an example. It is the <strong>thick blue curve</strong> with cross markers. A decrease on the curve indicates a heat divergence due to Ekman current, Typically, it is associated with a storm passing by our domain of analysis. Next, I will use a little animation to demonstrate the
 Ekman heat divergence and the 2012-2013 mid-latitude storm tracks.
