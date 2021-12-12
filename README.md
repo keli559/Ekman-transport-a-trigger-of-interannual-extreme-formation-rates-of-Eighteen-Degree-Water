@@ -94,7 +94,7 @@ This video (click the figure to see the video) shows the EDW activity from 2009 
 The <strong>blue solid contours</strong> here indicate the 17 and 19 celsius degree isotherms. 
 They indicate the temperature criteria of EDW. 
 In June, the EDW stays trapped between seasonal and permanent pycnoclines.
-THE EDW outcropping is prohibited.
+The EDW outcropping is prohibited.
 
 We started in the summer of 2009. The surface water is stratified, <strong>in dark red</strong>. 
 Note that 2009-2010 is a strong EDW formation year.
@@ -106,7 +106,7 @@ I want to point out 2011-2012, a year of weak EDW formation
 Neither the outcropping is large, nor the mixed layer depends more than 100m in depth.
 Literature calls it “ a near cessation of EDW renewal”
 The following winter of  2012-2013 is known as a strong EDW formation year. 
-THE outcropping region is large, and the mixed layer depth is deep.
+The outcropping region is large, and the mixed layer depth is deep.
 
 With the EDW extremes,  we investigated the EDW driving mechanisms
 
@@ -136,6 +136,20 @@ We found that the wintertime of strong EDW formation years corresponds with stro
 
 How does the extreme air-sea heat loss correspond with extreme EDW formation occurrences on a time series? 
 
+### Air-sea vs. EDW extreme
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/slide_24_kli559.png)
+
+This diagram shows the wintertime air-sea surface heat loss, delta
+![equation](https://render.githubusercontent.com/render/math?math=Q_{net}), in ZJ on vertical axis, accumulated from September to march. 
+A positive value in the diagram indicates a weak air-sea surface heat loss,
+and a negative value indicates a strong air-sea surface heat loss.
+The grey dashed lines are the plus and minus standard deviation to select its extremes.
+In bold curves are the extreme EDW formation years.
+Particularly, in crosses are the strong EDW formation years, 
+and in dots, the weak EDW years.
+We found that all the weak EDW formation years are located above the 1 sigma line, corresponding with the extreme weak air-sea surface heat loss, 
+The strong EDW formation years, such as 2010 and 13 are located below the negative sigma line, corresponding with the extreme strong air-sea surface heat loss, 
+However, in 2005, the strong EDW formation does not correspond with strong air-sea surface heat loss! Then we take a look at another atmospheric variable, the wind stress curl. 
 
 
 
