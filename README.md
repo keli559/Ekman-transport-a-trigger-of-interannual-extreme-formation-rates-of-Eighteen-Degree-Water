@@ -8,7 +8,7 @@ In the North Atlantic subtropical gyre, the Eighteen Degree Water (EDW) is a vol
 The North Atlantic Subtropical Gyre is the largest heat reservoir on Earth.
 This region experienced warming since 1970s. This schematic shows the Gulf stream system:
 
-![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/background/subtropical_kli559.png)
+![subtropical gyre and EDW](https://github.com/keli559/Ekman-transport-a-trigger-of-interannual-extreme-formation-rates-of-Eighteen-Degree-Water/blob/main/subtropical_kli559.png)
 
 <sub>The branches indicate the currents. <strong>Branch A</strong>  is the North Atlantic Current, <strong>Branch B</strong> indicates the eastward traveling subtropical branch. <strong>Branch C</strong> indicates the southern branch of the subtropical recirculation gyre. And <strong>Branch D</strong> indicates the northern cyclonic recirculation gyre. 
 The blue colored contours in depth indicate the deepest mixed layer depth.</sub>
